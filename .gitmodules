@@ -1,3 +1,6 @@
 [submodule "Vishwajith"]
 	path = Vishwajith
 	url = https://github.com/vlk-2805/DriveThruDataInternship.git
+[submodule "nithish"]
+	path = nithish
+	url = https://github.com/nithish-ra/Datadrive_intern_works.git
