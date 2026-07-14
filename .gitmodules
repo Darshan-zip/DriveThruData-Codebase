@@ -7,3 +7,6 @@
 [submodule "Sivasriraman"]
 	path = Sivasriraman
 	url = https://github.com/Yonjoggle/InternDriveThruData.git
+[submodule "Tritthik"]
+	path = Tritthik
+	url = https://github.com/tri-tt-hik/DriveThru_Internship_Work.git
