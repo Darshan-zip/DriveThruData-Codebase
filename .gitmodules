@@ -10,3 +10,6 @@
 [submodule "Tritthik"]
 	path = Tritthik
 	url = https://github.com/tri-tt-hik/DriveThru_Internship_Work.git
+[submodule "akshith_viswanathan"]
+	path = akshith_viswanathan
+	url = https://github.com/Akshith123-collab/clinicalgraph_ai.git
