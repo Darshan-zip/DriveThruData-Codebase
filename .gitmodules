@@ -13,3 +13,6 @@
 [submodule "Nikhil-Karthik-S"]
 	path = Nikhil-Karthik-S
 	url = https://github.com/nikhil-karthik-avvss/intern-work-drivethrudata.git
+[submodule "Pandiarajan"]
+	path = Pandiarajan
+	url = https://github.com/itz-me-pandian/DrivethruData_Intern.git
