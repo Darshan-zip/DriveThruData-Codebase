@@ -16,3 +16,6 @@
 [submodule "Pandiarajan"]
 	path = Pandiarajan
 	url = https://github.com/itz-me-pandian/DrivethruData_Intern.git
+[submodule "Darshan"]
+	path = Darshan
+	url = https://github.com/Darshan-zip/DriveThruData.git
