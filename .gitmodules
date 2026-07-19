@@ -10,6 +10,3 @@
 [submodule "Tritthik"]
 	path = Tritthik
 	url = https://github.com/tri-tt-hik/DriveThru_Internship_Work.git
-[submodule "Nikhil-Karthik-S/website"]
-	path = Nikhil-Karthik-S/website
-	url = https://github.com/nikhil-karthik-avvss/drivethrudata-react
